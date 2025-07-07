@@ -1,0 +1,8 @@
+spring:
+  banner:
+    location: logo-app
+  application:
+    name: FlashcardApp
+  profiles:
+    active: Low
+
